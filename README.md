@@ -1,5 +1,5 @@
 # Question Answering & Dialogue systems - datasets
-This is a list of datasets/corpora for NLP tasks- Question Answering and Dialogue systems, in reverse chronological order.
+This is a list of datasets/corpora for Question Answering and Dialogue systems, in reverse chronological order.
 Suggestions and pull requests are welcome. The goal is to make this a collaborative effort to maintain an updated list of quality datasets.
 
 # Areas
